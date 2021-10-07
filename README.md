@@ -1,2 +1,2 @@
-# career_guidnce
+# career_guidance
 A career guidance service.
